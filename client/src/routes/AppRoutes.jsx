@@ -37,8 +37,7 @@ const AppRoutes = () => {
           path="/login"
          element={<LoginPage />}
         />
-        {/* <Route path="/interview/:interviewId" element={<InterviewPlanPage />} /> */}
-          <Route path="/interview" element={<InterviewPlanPage />} />
+        <Route path="/interview/:interviewId" element={<InterviewPlanPage />} />
 
       </Routes>
     </BrowserRouter>
