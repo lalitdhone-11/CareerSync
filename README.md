@@ -1,6 +1,5 @@
 # CareerSync
-
-AI-powered interview preparation. Upload your resume, paste a job description, and CareerSync generates:
+AI-powered interview preparation platform that analyzes resumes and job descriptions, generates personalized interview questions, and validates workflows using Jest, Supertest, and Playwright:
 
 - A **match score** showing how well your profile fits the role
 - **Technical** and **behavioral** interview questions, each with the interviewer's intention and a model answer
